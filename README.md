@@ -73,8 +73,4 @@ Production-style data engineering pipeline demonstrating:
 
 ---
 
-## 📫 Connect with Me
-
-- LinkedIn: *(Add your LinkedIn profile URL here)*
-
 ⭐ Thanks for visiting my profile!
